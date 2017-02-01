@@ -1,7 +1,5 @@
 # Prolog
-Team Members:
-ANMOL SINGHAL - 2015A7PS069P
-AADI JAIN - 2015A7PS104P
+
 
 
 Q1: Simplifying algebraic multi-variable expression.
